@@ -2123,6 +2123,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1em) center;
 		padding-right: 1.5em;
+		font-size: 0.8em;
 		text-overflow: ellipsis;
 	}
 
